@@ -3,90 +3,90 @@
     "id_product": 123,
     "product_name": "Ноутбук",
     "price": 45600,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 456,
     "product_name": "Мышка",
     "price": 1000,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 457,
     "product_name": "клавиатура",
     "price": 4500,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 458,
     "product_name": "iphone 17ХЕ",
     "price": 100000,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 459,
     "product_name": "наушники",
     "price": 1200,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 460,
     "product_name": "монитор",
     "price": 19500,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 461,
     "product_name": "колонки",
     "price": 4100,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 462,
     "product_name": "компьютерный стол",
     "price": 31000,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 463,
     "product_name": "кресло",
     "price": 14200,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 464,
     "product_name": "очки",
     "price": 5000,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 465,
     "product_name": "сетевой фильтр",
     "price": 700,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 466,
     "product_name": "коврик",
     "price": 400,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 467,
     "product_name": "видеокарта",
     "price": 7000,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 468,
     "product_name": "роутер",
     "price": 2400,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   },
   {
     "id_product": 469,
     "product_name": "коробка удачи",
     "price": 50000,
-    "image": "https://placehold.it/200x150",
+    "image": "https://placehold.it/200x150"
   }
 ]
